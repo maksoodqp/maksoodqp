@@ -2,7 +2,7 @@
 
 I'm **Maksood Ali**, a **Senior Software Developer** with over 10 years of experience specializing in backend Java development. I'm passionate about building scalable, high-performance applications using modern technologies and methodologies. Based in **Riyadh, Saudi Arabia** and originally from **Kerala, India**, I enjoy contributing to open-source projects, outdoor activities, travel, and volunteering.
 
-## Software Engineer at Computer Science and Engineering Company, Riyadh
+## Software Engineer at Computer Systems and Engineering, Riyadh
 
 - 🚀 **Currently Working On:** Building scalable backend solutions in the financial domain for capital markets using Java, Spring Boot, microservices, and cloud technologies.
 - 🤝 **Open to Collaboration:** Always excited to contribute to open-source projects and share knowledge.
@@ -55,7 +55,7 @@ Senior Java Backend Developer with 10+ years of experience specializing in desig
 
 ## Work Experience
 
-### Senior Software Developer | Computer Science and Engineering Company | 2024 - Present
+### Senior Software Developer | Computer Systems and Engineering | 2024 - Present
 ### Senior Software Engineer | Target Corporations India | 2018 - 2023
 ### Software Developer | NStyle International LLC | 2016 - 2018
 ### Software Developer | Buhaleeba Holdings | 2015 - 2016
@@ -63,7 +63,7 @@ Senior Java Backend Developer with 10+ years of experience specializing in desig
 
 ## Education
 
-- **Bachelor of Science in Computer Science** | University of Calicut | 2009 - 2013
+- **Bachelor of Tecgnology in Computer Science** | University of Calicut | 2009 - 2013
 - **Diploma in Computer Engineering** | Technical Board of Kerala | 2006 - 2009
 
 ## Interests
